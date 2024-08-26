@@ -116,6 +116,24 @@ Checkout the branch
 git checkout branch-name
 ```
 
+## Remotes
+
+We can add remote but often you will add remote via upstream when adding a branch
+
+```sh
+git remote add.
+git branch -u origin new-feature
+```
+
+## Stashing
+
+## Merging
+
+```sh
+git checkout branch-name
+git merge main
+```
+
 ## Add
 
 When we want to stage changes that will be included in the commit
