@@ -127,6 +127,14 @@ git branch -u origin new-feature
 
 ## Stashing
 
+```
+git stash list
+git stash
+git stash save name
+git stash apply
+git stash pop
+```
+
 ## Merging
 
 ```sh
